@@ -1,0 +1,1 @@
+Base Directory for different Qt Activities and Projects 
